@@ -1,2 +1,2 @@
-# E-cmommerce-Project
+# E-commerce-Project
 E-Commerce Website using PHP
